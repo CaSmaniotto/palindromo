@@ -1,3 +1,3 @@
-# atividade-palindromo
-Atividade Avaliativa - Palíndromo <br>
-Insira uma palavra e ele dirá se é um palíndromo ou não! 
+# Palindromo 🔄
+
+## Verifica se a palavra inserida é um palíndromo ou não.
